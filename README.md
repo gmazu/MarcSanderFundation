@@ -11,18 +11,29 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Consolidated text: `Documento_unico_T2K.txt` (approx. 13,072 words).
 
 ## Pending (in order)
-1. Remove non-academic material (letters, meta-instructions, drafting notes).
-2. Create a clean paper structure: Title, Abstract, Introduction, Argument, Objections/Replies, Conclusion, References.
-3. Normalize tone and voice to academic style (no conversational or instructional text).
-4. Ensure blind review compliance (remove personal names/identifiers).
-5. Trim or justify physics claims that are not directly defended.
-6. Consolidate and shorten references to a formal bibliography.
-7. Produce final submission format (DOCX or PDF) and verify word count 7,500–15,000.
+1. [x] Crear capítulo nuevo “Cable Mazzu” con conector tiempo‑emoción.
+2. [x] Incorporar “espacio–emoción” en conclusión (V5.1).
+3. [ ] Reubicar “reemplazo de espacio‑tiempo por emoción‑tiempo” también dentro del capítulo Cable Mazzu (ajuste fino de redacción).
+4. [ ] Diferencia entre arquitectura y mecanismo de activación (sección en capítulo de mente/radar).
+5. [ ] Analogía radar helicoidal de la mente (capítulo COGNOS).
+6. [ ] Velocidad de pensamiento vs. velocidad de la luz (capítulo Cable Mazzu).
+7. [ ] Aporte vedanta/culturas orientales (cierre del capítulo Cable Mazzu o agradecimientos).
+8. [ ] Tiempo mínimo = velocidad sináptica (mención breve en Cable Mazzu o apéndice técnico).
+9. [ ] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
+10. [ ] Terapia por distracción y reseteo de memoria (cierre de capítulo mental).
+11. [ ] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción).
+12. [ ] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
+13. [ ] Normalizar tono académico (sin diálogo ni instrucciones).
+14. [ ] Ciego de revisión (remover nombres/identificadores personales).
+15. [ ] Ajustar claims físicos no defendidos o justificarlos.
+16. [ ] Consolidar y acortar bibliografía formal.
+17. [ ] Generar versión final (DOCX/PDF) y verificar 7,500–15,000 palabras.
 
 ## Files Used (selected)
-- Abstract (final): `V23 ABSTRACT (versión final con referencia 11).docx`
-- Conclusion (final): `V4.1 CONCLUSIÓN_.docx`
-- Carta (final): `V4.1 Carta.docx` (not for submission)
-- Chapters 1–11: `V1 Capitulo 1 Time 2 Killer T2K.docx` + `V1 cap2–cap11 T2K.docx`
-- Capitulo X: `Capítulo X Fin de los Viajes temporales.docx`
-- Referencias: `V2.1 REFERENCIAS.docx`
+- Abstract (final): `00_Abstract/V23 ABSTRACT (versión final con referencia 11).docx`
+- Conclusion (final): `30_Conclusion/V5.1 CONCLUSIÓN_.docx`
+- Carta (final): `90_Carta/V4.1 Carta.docx` (not for submission)
+- Chapters 1–11: `02_Capitulo_01/` ... `12_Capitulo_11/`
+- Capitulo X: `13_Capitulo_X/Capítulo X Fin de los Viajes temporales.docx`
+- Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
+- Cable Mazzu: `14_Cable_Masu/V1.1 Cable Mazzu.docx`
