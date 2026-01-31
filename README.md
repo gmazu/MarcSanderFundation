@@ -41,11 +41,20 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 3. En el Abstract: cambiar “referencias externas” por “referencias almacenadas (internas o externas)”; lo importante es el registro/almacenamiento de estado.
 4. En el Abstract: reemplazar “no se puede definir un tiempo real” por “no se puede calcular un tiempo” (evitar “real” y usar “calcular”).
 
+## INTRO REV1 (Observaciones de revisión de la Introducción)
+1. Reemplazar “errores” por “interpretaciones”.
+2. Explicar memoria como rutas/redes reforzadas (analogía del esquiador; no una sola neurona).
+3. Aclarar que recordar genera una percepción similar a la que creó el patrón (no solo sufrimiento).
+4. Afirmar explícitamente que toda recuperación de memoria ocurre en el presente.
+5. Añadir contexto histórico: desde la primera célula con memoria, este modo de funcionamiento evoluciona.
+6. Señalar el primer riesgo: sin entrenamiento se confunde recuerdo con experiencia; el recuerdo no es real en sentido físico, la experiencia que lo creó sí.
+7. Transición a física: la interpretación física del tiempo está inevitablemente influida por esta percepción (memoria/imaginación); la cultura reutiliza experiencias acumuladas para construir teorías, y ahí se conecta emoción con relatividad general.
+
 ## Files Used (selected)
 - Abstract (final): `00_Abstract/V24_Abstract.docx`
 - Conclusion (final): `30_Conclusion/V5.1 CONCLUSIÓN_.docx`
 - Carta (final): `90_Carta/V4.1 Carta.docx` (not for submission)
-- Introducción: `01_Introduccion/V2 intro T2K.docx`
+- Introducción: `01_Introduccion/V8 intro T2K.docx`
 - Chapters 1–11: `02_Capitulo_01/` ... `12_Capitulo_11/` (Capítulo 1 actualizado a V6, limpio)
 - Capitulo 0: `13_Capitulo_00/Capítulo 0 Las dos causas de la ilusión del tiempo.docx`
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
