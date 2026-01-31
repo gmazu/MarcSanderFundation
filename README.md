@@ -39,9 +39,10 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 1. En el documento unificado, el Abstract aparece antes de la Introducción (confirmar si ese orden es el deseado).
 2. El Abstract menciona “solitón” pero no hay referencia bibliográfica explícita asociada a solitones.
 3. En el Abstract: cambiar “referencias externas” por “referencias almacenadas (internas o externas)”; lo importante es el registro/almacenamiento de estado.
+4. En el Abstract: reemplazar “no se puede definir un tiempo real” por “no se puede calcular un tiempo” (evitar “real” y usar “calcular”).
 
 ## Files Used (selected)
-- Abstract (final): `00_Abstract/V23 ABSTRACT (versión final con referencia 11).docx`
+- Abstract (final): `00_Abstract/V24_Abstract.docx`
 - Conclusion (final): `30_Conclusion/V5.1 CONCLUSIÓN_.docx`
 - Carta (final): `90_Carta/V4.1 Carta.docx` (not for submission)
 - Introducción: `01_Introduccion/V2 intro T2K.docx`
