@@ -21,7 +21,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 8. [x] Tiempo mínimo = velocidad sináptica (mención breve en Cable Mazzu o apéndice técnico).
 9. [x] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
 10. [x] Terapia por distracción y reseteo de memoria (cierre de capítulo mental).
-11. [x] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción) en Capítulos 1–3 y 5–11.
+11. [x] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción) en Capítulos 1–11.
 12. [ ] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
 13. [ ] Normalizar tono académico (sin diálogo ni instrucciones).
 14. [ ] Ciego de revisión (remover nombres/identificadores personales).
