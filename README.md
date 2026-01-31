@@ -35,6 +35,9 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 22. [ ] Exportar PDF/DOCX final listo para envío.
 23. [ ] Preparar y enviar correo a osm@philosophy.rutgers.edu.
 
+## Nota de control
+- Antes de aplicar cambios, esperar VB (visto bueno).
+
 ## REV1 (Observaciones de revisión general)
 1. En el documento unificado, el Abstract aparece antes de la Introducción (confirmar si ese orden es el deseado).
 2. El Abstract menciona “solitón” pero no hay referencia bibliográfica explícita asociada a solitones.
