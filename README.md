@@ -16,7 +16,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 3. [x] Reubicar “reemplazo de espacio‑tiempo por emoción‑tiempo” también dentro del capítulo Cable Mazzu (ajuste fino de redacción).
 4. [x] Diferencia entre arquitectura y mecanismo de activación (sección en capítulo de mente/radar).
 5. [x] Analogía radar helicoidal de la mente (capítulo COGNOS).
-6. [ ] Velocidad de pensamiento vs. velocidad de la luz (capítulo Cable Mazzu).
+6. [x] Velocidad de pensamiento vs. velocidad de la luz (capítulo Cable Mazzu).
 7. [ ] Aporte vedanta/culturas orientales (cierre del capítulo Cable Mazzu o agradecimientos).
 8. [ ] Tiempo mínimo = velocidad sináptica (mención breve en Cable Mazzu o apéndice técnico).
 9. [ ] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
@@ -42,4 +42,4 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Chapters 1–11: `02_Capitulo_01/` ... `12_Capitulo_11/` (Capítulo 1 actualizado a V2)
 - Capitulo X: `13_Capitulo_X/Capítulo X Fin de los Viajes temporales.docx`
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
-- Cable Mazzu: `14_Cable_Masu/V1.2 Cable Mazzu.docx`
+- Cable Mazzu: `14_Cable_Masu/V1.3 Cable Mazzu.docx`
