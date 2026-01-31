@@ -20,7 +20,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 7. [x] Aporte vedanta/culturas orientales (cierre del capítulo Cable Mazzu o agradecimientos).
 8. [x] Tiempo mínimo = velocidad sináptica (mención breve en Cable Mazzu o apéndice técnico).
 9. [x] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
-10. [ ] Terapia por distracción y reseteo de memoria (cierre de capítulo mental).
+10. [x] Terapia por distracción y reseteo de memoria (cierre de capítulo mental).
 11. [ ] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción).
 12. [ ] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
 13. [ ] Normalizar tono académico (sin diálogo ni instrucciones).
