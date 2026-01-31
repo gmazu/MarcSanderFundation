@@ -40,6 +40,6 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Conclusion (final): `30_Conclusion/V5.1 CONCLUSIÓN_.docx`
 - Carta (final): `90_Carta/V4.1 Carta.docx` (not for submission)
 - Chapters 1–11: `02_Capitulo_01/` ... `12_Capitulo_11/` (Capítulo 1 actualizado a V6, limpio)
-- Capitulo X: `13_Capitulo_X/Capítulo X Fin de los Viajes temporales.docx`
+- Capitulo 0: `13_Capitulo_00/Capítulo 0 Las dos causas de la ilusión del tiempo.docx`
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
 - Cable Mazzu: `14_Cable_Masu/V1.5 Cable Mazzu.docx`
