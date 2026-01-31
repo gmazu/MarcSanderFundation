@@ -24,7 +24,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 11. [x] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción) en Capítulos 1–11.
 12. [x] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
 13. [ ] Normalizar tono académico (sin diálogo ni instrucciones).
-14. [ ] Ciego de revisión (remover nombres/identificadores personales).
+14. [x] Ciego de revisión (remover nombres/identificadores personales).
 15. [ ] Ajustar claims físicos no defendidos o justificarlos.
 16. [ ] Consolidar y acortar bibliografía formal.
 17. [ ] Generar versión final (DOCX/PDF) y verificar 7,500–15,000 palabras.
