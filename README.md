@@ -22,7 +22,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 9. [x] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
 10. [x] Terapia por distracción y reseteo de memoria (cierre de capítulo mental).
 11. [x] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción) en Capítulos 1–11.
-12. [ ] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
+12. [x] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
 13. [ ] Normalizar tono académico (sin diálogo ni instrucciones).
 14. [ ] Ciego de revisión (remover nombres/identificadores personales).
 15. [ ] Ajustar claims físicos no defendidos o justificarlos.
@@ -44,4 +44,4 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Capitulo 0: `13_Capitulo_00/Capítulo 0 Las dos causas de la ilusión del tiempo.docx`
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
 - Cable Mazzu: `14_Cable_Masu/V1.5 Cable Mazzu.docx`
-- Documento unificado: `FoPIT-EoT-Px_v1.docx`
+- Documento unificado: `FoPIT-EoT-Px_v2.docx`
