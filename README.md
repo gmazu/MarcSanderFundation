@@ -13,7 +13,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 ## Pending (in order)
 1. [x] Crear capítulo nuevo “Cable Mazzu” con conector tiempo‑emoción.
 2. [x] Incorporar “espacio–emoción” en conclusión (V5.1).
-3. [ ] Reubicar “reemplazo de espacio‑tiempo por emoción‑tiempo” también dentro del capítulo Cable Mazzu (ajuste fino de redacción).
+3. [x] Reubicar “reemplazo de espacio‑tiempo por emoción‑tiempo” también dentro del capítulo Cable Mazzu (ajuste fino de redacción).
 4. [ ] Diferencia entre arquitectura y mecanismo de activación (sección en capítulo de mente/radar).
 5. [ ] Analogía radar helicoidal de la mente (capítulo COGNOS).
 6. [ ] Velocidad de pensamiento vs. velocidad de la luz (capítulo Cable Mazzu).
@@ -28,6 +28,12 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 15. [ ] Ajustar claims físicos no defendidos o justificarlos.
 16. [ ] Consolidar y acortar bibliografía formal.
 17. [ ] Generar versión final (DOCX/PDF) y verificar 7,500–15,000 palabras.
+18. [ ] Unificar estructura final (capítulos + Cable Mazzu + conclusión V5.1).
+19. [ ] Limpiar texto no académico (meta‑instrucciones, diálogos, notas internas).
+20. [ ] Blind review final (quitar nombres/identificadores).
+21. [ ] Verificar word count final (7,500–15,000).
+22. [ ] Exportar PDF/DOCX final listo para envío.
+23. [ ] Preparar y enviar correo a osm@philosophy.rutgers.edu.
 
 ## Files Used (selected)
 - Abstract (final): `00_Abstract/V23 ABSTRACT (versión final con referencia 11).docx`
@@ -36,4 +42,4 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Chapters 1–11: `02_Capitulo_01/` ... `12_Capitulo_11/`
 - Capitulo X: `13_Capitulo_X/Capítulo X Fin de los Viajes temporales.docx`
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
-- Cable Mazzu: `14_Cable_Masu/V1.1 Cable Mazzu.docx`
+- Cable Mazzu: `14_Cable_Masu/V1.2 Cable Mazzu.docx`
