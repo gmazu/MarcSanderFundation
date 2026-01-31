@@ -39,6 +39,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Abstract (final): `00_Abstract/V23 ABSTRACT (versión final con referencia 11).docx`
 - Conclusion (final): `30_Conclusion/V5.1 CONCLUSIÓN_.docx`
 - Carta (final): `90_Carta/V4.1 Carta.docx` (not for submission)
+- Introducción: `01_Introduccion/V2 intro T2K.docx`
 - Chapters 1–11: `02_Capitulo_01/` ... `12_Capitulo_11/` (Capítulo 1 actualizado a V6, limpio)
 - Capitulo 0: `13_Capitulo_00/Capítulo 0 Las dos causas de la ilusión del tiempo.docx`
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
