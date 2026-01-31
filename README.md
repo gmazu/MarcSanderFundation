@@ -19,7 +19,7 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 6. [x] Velocidad de pensamiento vs. velocidad de la luz (capítulo Cable Mazzu).
 7. [x] Aporte vedanta/culturas orientales (cierre del capítulo Cable Mazzu o agradecimientos).
 8. [x] Tiempo mínimo = velocidad sináptica (mención breve en Cable Mazzu o apéndice técnico).
-9. [ ] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
+9. [x] Trauma como bucle prioritario atrapado (sección profunda COGNOS).
 10. [ ] Terapia por distracción y reseteo de memoria (cierre de capítulo mental).
 11. [ ] Quitar material no académico (cartas, meta‑instrucciones, notas de redacción).
 12. [ ] Estructurar paper limpio: Título, Abstract, Introducción, Argumento, Objeciones/Respuestas, Conclusión, Referencias.
