@@ -63,3 +63,5 @@ Single consolidated draft for the Marc Sanders Foundation metaphysics contest. T
 - Referencias: `40_Referencias/V2.1 REFERENCIAS.docx`
 - Cable Mazzu: `14_Cable_Masu/V1.5 Cable Mazzu.docx`
 - Documento unificado: `FoPIT-EoT-Px_v2.docx`
+
+- Índice embebido en `FoPIT-EoT-Px_v4.docx` (INDICE.txt movido a backup)
